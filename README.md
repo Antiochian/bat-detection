@@ -7,4 +7,4 @@ The program also outputs some helpful graphs:
 
 ![Positive result](bat_positive.PNG) ![Negative_result](bat_negative.PNG)
 
-If the ratio value (seen in the "Ratio of Bat/Background" graph) surpasses the black dotted line, then the system records a positive bat detection event. You can see above that on the left sample a bat IS detected, and on the right a bat is NOT detected.
+If the ratio value (seen in the "Ratio of Bat/Background" graph) surpasses the black dotted line, then the system records a positive bat detection event. You can see above that in the first sample a bat IS detected, and in the second a bat is NOT detected.
